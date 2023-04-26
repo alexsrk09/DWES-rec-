@@ -1,0 +1,28 @@
+<?php
+$piezas=[
+    [
+        "img1"=>"img/1.JPG",
+        "img2"=>"img/5.JPG",
+    ],
+    [
+        "img1"=>"img/2.JPG",
+        "img2"=>"img/13.JPG",
+    ],
+    [
+        "img1"=>"img/3.JPG",
+        "img2"=>"img/4.JPG",
+    ],
+    [
+        "img1"=>"img/7.JPG",
+        "img2"=>"img/12.JPG",
+    ],
+    [
+        "img1"=>"img/8.JPG",
+        "img2"=>"img/10.JPG",
+    ],
+    [
+        "img1"=>"img/9.JPG",
+        "img2"=>"img/11.JPG",
+    ],
+]
+?>
